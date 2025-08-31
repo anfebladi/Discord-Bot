@@ -1,0 +1,5 @@
+dependecies:
+
+discord.py
+python-dotenv
+requests
